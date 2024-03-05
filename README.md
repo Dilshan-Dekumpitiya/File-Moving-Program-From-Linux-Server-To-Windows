@@ -16,3 +16,9 @@ This project was created for the purpose of implementing a file-moving program f
     - Copy the contents of the public key (from PuTTYgen) to the ~/.ssh/authorized_keys file on the Linux server.
 
  4. Change all the variables as desired
+
+### IDE
+
+- Visual Studio
+
+#### NOTE : After publishing this project and setting the executable file in the Windows Task Scheduler, it can be run as a scheduled task.
