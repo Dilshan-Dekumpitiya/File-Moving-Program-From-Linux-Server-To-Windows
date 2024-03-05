@@ -1,0 +1,7 @@
+3/1/2024 2:00:09 PM || File Copy Project | Copy Start
+3/1/2024 2:00:09 PM || File Copy Project | Check if the copied_files.txt exists
+3/1/2024 2:00:09 PM || File Copy Project | Read the list of previously copied file names
+3/1/2024 2:00:09 PM || File Copy Project | Start bat file run
+3/1/2024 2:01:12 PM || File Copy Project | Get the list of copied files
+3/1/2024 2:01:12 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/1/2024 2:01:12 PM || File Copy Project | Files copied successfully.

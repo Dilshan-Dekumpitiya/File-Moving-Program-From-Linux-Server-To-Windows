@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9AFESACLYhchk8l/seNS4WegB2zdBycc7GBPVntAfPUN5skwg3hJEZog7K+Sdx1mtCKDKNu/lMkFNNvbafEztg==",
+  "success": true,
+  "projectFilePath": "E:\\FileCopy\\FileCopy\\FileCopy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dilshan Dekumpitiya\\.nuget\\packages\\ssh.net\\2023.0.1\\ssh.net.2023.0.1.nupkg.sha512",
+    "C:\\Users\\Dilshan Dekumpitiya\\.nuget\\packages\\sshnet.security.cryptography\\1.3.0\\sshnet.security.cryptography.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

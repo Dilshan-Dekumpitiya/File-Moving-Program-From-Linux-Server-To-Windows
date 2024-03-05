@@ -1,0 +1,42 @@
+3/5/2024 3:35:36 PM || File Copy Project | Copy Start
+3/5/2024 3:35:36 PM || File Copy Project | Check if the copied_files.txt exists
+3/5/2024 3:35:36 PM || File Copy Project | Read the list of previously copied file names
+3/5/2024 3:35:36 PM || File Copy Project | Start bat file run
+3/5/2024 3:36:00 PM || File Copy Project | Get the list of copied files
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Append the newly copied file names to the copied_files.txt
+3/5/2024 3:36:00 PM || File Copy Project | Files copied successfully.
+3/5/2024 4:03:20 PM || File Copy Project | Copy Start
+3/5/2024 4:03:20 PM || File Copy Project | Check if the Copied_Files.txt exists
+3/5/2024 4:03:20 PM || File Copy Project | Read the list of previously copied file names
+3/5/2024 4:03:20 PM || File Copy Project | Start batch file run
+3/5/2024 4:03:36 PM || File Copy Project | Get the list of copied files
+3/5/2024 4:03:36 PM || File Copy Project | Append the newly copied file names to the Copied_Files.txt
+3/5/2024 4:03:36 PM || File Copy Project | Append the newly copied file names to the Copied_Files.txt
+3/5/2024 4:03:36 PM || File Copy Project | Files copied successfully.
