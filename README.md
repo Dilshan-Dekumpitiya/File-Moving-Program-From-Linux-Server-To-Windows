@@ -1,5 +1,5 @@
 # File-Moving-Program-From-Linux-Server-To-Windows
-This project was created for the purpose of implementing a file-moving program from a Linux server to a local Windows path
+This project was created for the purpose of implementing a file-moving program from a Linux server to a local Windows path (Can run as a schedule task)
 
 ## Steps
 
